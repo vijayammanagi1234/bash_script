@@ -1,3 +1,3 @@
 #!/bin/bash
- ((sum = 20+30))
+ ((sum = 80+30))
   echo $sum
